@@ -1,0 +1,36 @@
+.home-page {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f9;
+}
+
+header h1 {
+    font-size: 2rem;
+    color: #333;
+}
+
+.actions {
+    margin-top: 20px;
+}
+
+.action-button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    color: white;
+    background-color: #007bff;
+    border: none;
+    cursor: pointer;
+    margin: 10px;
+}
+
+.action-button:hover {
+    background-color: #0056b3;
+}
+
+footer {
+    margin-top: 20px;
+    font-size: 0.9rem;
+    color: #777;
+}
